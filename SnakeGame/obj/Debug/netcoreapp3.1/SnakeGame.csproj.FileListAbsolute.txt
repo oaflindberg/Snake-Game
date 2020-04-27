@@ -1,0 +1,11 @@
+/Users/Andreas/Desktop/YRGO/Programmering mot ramverk/C#/13 - Project/SnakeGame/SnakeGame/bin/Debug/netcoreapp3.1/SnakeGame
+/Users/Andreas/Desktop/YRGO/Programmering mot ramverk/C#/13 - Project/SnakeGame/SnakeGame/bin/Debug/netcoreapp3.1/SnakeGame.deps.json
+/Users/Andreas/Desktop/YRGO/Programmering mot ramverk/C#/13 - Project/SnakeGame/SnakeGame/bin/Debug/netcoreapp3.1/SnakeGame.runtimeconfig.json
+/Users/Andreas/Desktop/YRGO/Programmering mot ramverk/C#/13 - Project/SnakeGame/SnakeGame/bin/Debug/netcoreapp3.1/SnakeGame.runtimeconfig.dev.json
+/Users/Andreas/Desktop/YRGO/Programmering mot ramverk/C#/13 - Project/SnakeGame/SnakeGame/bin/Debug/netcoreapp3.1/SnakeGame.dll
+/Users/Andreas/Desktop/YRGO/Programmering mot ramverk/C#/13 - Project/SnakeGame/SnakeGame/bin/Debug/netcoreapp3.1/SnakeGame.pdb
+/Users/Andreas/Desktop/YRGO/Programmering mot ramverk/C#/13 - Project/SnakeGame/SnakeGame/obj/Debug/netcoreapp3.1/SnakeGame.csprojAssemblyReference.cache
+/Users/Andreas/Desktop/YRGO/Programmering mot ramverk/C#/13 - Project/SnakeGame/SnakeGame/obj/Debug/netcoreapp3.1/SnakeGame.AssemblyInfoInputs.cache
+/Users/Andreas/Desktop/YRGO/Programmering mot ramverk/C#/13 - Project/SnakeGame/SnakeGame/obj/Debug/netcoreapp3.1/SnakeGame.AssemblyInfo.cs
+/Users/Andreas/Desktop/YRGO/Programmering mot ramverk/C#/13 - Project/SnakeGame/SnakeGame/obj/Debug/netcoreapp3.1/SnakeGame.dll
+/Users/Andreas/Desktop/YRGO/Programmering mot ramverk/C#/13 - Project/SnakeGame/SnakeGame/obj/Debug/netcoreapp3.1/SnakeGame.pdb
